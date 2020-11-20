@@ -1,5 +1,7 @@
 ![The Blind's Enlightenment: Unfolded](./assets/media/headers/h_title.png)
 
+<a href="https://www.pivotaltracker.com/n/projects/2467983"><img src="./assets/media/pivotal_tracker.png" alt="Pivotal" width="25" height="25"></a>
+
 ![Descripción](./assets/media/headers/h_contenido.png)
 
 _**The Blind's Enlightenment: Unfolded**_ es un juego de exploración y mazmorras en perspectiva isométrica, en el que el jugador controla a una protagonista en su búsqueda por alcanzar la iluminación definitiva.
