@@ -1,4 +1,5 @@
 ![Veiled](./assets/media/headers/h_title_bg.png)
+![Veiledsss](./assets/media/features/npc.gif)
 
 <a href="https://www.pivotaltracker.com/n/projects/2467983"><img src="./assets/media/pivotal_tracker.png" alt="Pivotal" width="25" height="25"></a>
 
