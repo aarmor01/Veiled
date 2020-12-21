@@ -1,4 +1,4 @@
-![Veiled](./assets/media/headers/h_title.png)
+![Veiled](./assets/media/headers/h_title_bg.png)
 
 <a href="https://www.pivotaltracker.com/n/projects/2467983"><img src="./assets/media/pivotal_tracker.png" alt="Pivotal" width="25" height="25"></a>
 
@@ -7,8 +7,6 @@
 _**Veiled**_ es un juego de exploración y mazmorras en perspectiva isométrica, en el que el jugador controla a una protagonista en su búsqueda por alcanzar la iluminación definitiva.
 
 Esta protagonista lleva asiduamente una venda, ya que, tras recuperarse de su ceguera, sufrió una serie de acontecimientos perturbadores, lo que le llevaron a repudiar el mundo físico visible. Esto le motiva a avanzar en su búsqueda, para poder obtener la paz interna. Para ello, deberá cumplir una serie de objetivos a modo de eventos (de texto o físicos) que le permitirán avanzar tanto en el propio mapa, como a los distintos niveles, hasta alcanzar el final.
-
-**Ventana de juego** (Placeholder)
 
 ![Game screen](./assets/media/game_screen.png)
 
@@ -189,8 +187,6 @@ Además de la interfaz principal contara con un overlay simple de inventario don
 ![Prototipado](./assets/media/headers/h_prototipado.png)
 
 ### Arquitectura
-
-[Modelo](https://docs.google.com/drawings/d/1-1DPUHdG_3wb9gtGyfiG3ykvNLVxsPCKqEqCn9Yzmto/edit?userstoinvite=edekadt@ucm.es&amp;ts=5f92fe7b&amp;actionButton=1)
 
 ![Game API](./assets/media/game_API.png)
 
