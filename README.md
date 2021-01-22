@@ -1,6 +1,6 @@
 ![Veiled](./assets/media/headers/h_title_bg.png)
 
-<a href="https://www.pivotaltracker.com/n/projects/2467983"><img src="./assets/media/pivotal_tracker.png" alt="Pivotal" width="25" height="25"></a>
+<center><a href="https://aarmor01.github.io/Veiled/"><img src="./assets/media/controller.png" alt="Game" width="100" height="100" ></a></center>
 
 ![Descripción](./assets/media/headers/h_descripcion.png)
 
@@ -232,3 +232,5 @@ El juego ofrece varios indicadores de interfaz:
 - *Perception (Mecánica de visión)*
 - *Lego Games (Fe)*
 - *La Voluntad – Azorín (Barra de Cordura)*
+
+<a href="https://www.pivotaltracker.com/n/projects/2467983"><img src="./assets/media/pivotal_tracker.png" alt="Pivotal" width="25" height="25" align="right"></a>
